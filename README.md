@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./screenshots/dashboard.png" width="1000">
+</p>
 # Operations CRM Panel
 
 A premium, modern Operations CRM Dashboard designed for **Realty Ops** management. This application features a sleek dark enterprise design system, responsive analytics charts, and a dynamic date-based operational archiving system.
