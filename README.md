@@ -1,5 +1,7 @@
+## Dashboard Preview
+
 <p align="center">
-  <img src="./screenshots/dashboard.jpeg" width="1000">
+  <img src="./src/screenshots/dashboard.jpeg" width="1000">
 </p>
 # Operations CRM Panel
 
